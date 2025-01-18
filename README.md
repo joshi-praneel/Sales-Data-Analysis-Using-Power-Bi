@@ -54,4 +54,4 @@ This dashboard provides actionable insights to:
 
 ### Author
 **Joshi Praneel**  
-[GitHub Profile](https://github.com/) | [LinkedIn Profile](https://linkedin.com/in/)
+
